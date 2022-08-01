@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "KKvFkgsp+ciemBn0FRXjX1OYsa7g2TA3AUANlkjMU4I=",
+  "Source": "Blog",
+  "BasePath": "_content/Blog",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Blog\\wwwroot",
+      "Source": "Blog",
+      "ContentRoot": "C:\\Users\\matheus.varela\\Desktop\\Estudo\\API\\Outro\\Blog\\Blog\\wwwroot\\",
+      "BasePath": "_content/Blog",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
